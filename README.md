@@ -11,3 +11,6 @@ guided project to learn about react hooks
 - useForwardRef: interacting with a component imperatively
 - useContext: avoid large prop chains
 
+--- 
+styling => <a href="https://github.com/css-modules/css-modules">css modules</a> supported when using create-react-app
+
